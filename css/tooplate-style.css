@@ -265,10 +265,6 @@ p {
 =======================*/
 
 .sixth-section {
-	background-image: url(../img/sixth-section-bg.png);
-	background-size: cover;
-	width: 100%;
-	background-repeat: no-repeat;
 	padding: 10% 0px;
 }
 
