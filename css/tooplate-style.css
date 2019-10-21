@@ -17,8 +17,6 @@ p {
 
 .icon:hover {
     opacity: 0.7;
-    transform: scale(1.05);
-    transition-duration: 0.2s;
 }
 
 .card:hover {
@@ -150,10 +148,6 @@ p {
 =======================*/
 
 .fourth-section {
-    background-image: url(../img/fourth-section-bg.png);
-    background-size: cover;
-    width: 100%;
-    background-repeat: no-repeat;
     padding: 10% 0px;
 }
 
@@ -275,7 +269,7 @@ p {
 =======================*/
 
 .sixth-section {
-    padding: 10% 0px;
+    padding: 2% 0px;
 }
 
 .sixth-section input {
