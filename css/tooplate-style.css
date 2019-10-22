@@ -15,6 +15,19 @@ p {
     line-height: 22px;
 }
 
+.nav-link.active {
+    font-weight: bold;
+}
+
+.price-color {
+    color: green;
+}
+
+.logo-color {
+    color: yellow;
+
+}
+
 .icon:hover {
     opacity: 0.7;
 }
@@ -54,17 +67,17 @@ p {
 }
 
 .first-section .text-content h2 {
-    font-size: 44px;
+    font-size: 55px;
     text-transform: uppercase;
     font-weight: 900;
     letter-spacing: 1px;
 }
 
 .first-section .text-content .line-dec {
-    width: 60px;
-    height: 3px;
-    background-color: #fff;
-    margin: 25px 0px 25px auto;
+    width: auto;
+    height: 1px;
+    background-color: yellow;
+    margin: 0px 0px 25px auto;
 }
 
 .first-section .text-content span {
