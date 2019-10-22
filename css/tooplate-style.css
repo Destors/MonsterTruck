@@ -15,9 +15,19 @@ p {
     line-height: 22px;
 }
 
-.nav-link.active {
-    font-weight: bold;
+.navbar-toggler {
+
 }
+
+.text-center.head-number {
+    margin: 0;
+    flex-grow: 2;
+}
+
+.nav-link {
+    margin-left: 20px;
+}
+
 
 .price-color {
     color: green;
